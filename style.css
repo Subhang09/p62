@@ -1,0 +1,61 @@
+.container {
+    text-align: center;
+}
+
+.menu1 {
+    float: left;
+    list-style: none;
+    color: white;
+    position: fixed;
+    background: black;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    font-size: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#img1 {
+    width: 100%;
+}
+
+.img2 {
+    width: 250px;
+    height: 200px;
+}
+
+.thumb {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#myCarousel {
+    background-color: black;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel2 {
+    background-color: red;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
